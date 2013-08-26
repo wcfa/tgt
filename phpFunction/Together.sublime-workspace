@@ -1,0 +1,250 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 307.0,
+		"selected_items":
+		[
+			[
+				"open",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"s",
+				"SFTP: Browse Server…"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"t",
+				"Tidy HTML"
+			],
+			[
+				"sf",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"tidy",
+				"Tidy HTML"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"isntal",
+				"BracketHighlighter: Select Next Attribute (left)"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/macmacbook/Github/tgt/phpFunction/creategroup.php",
+		"/Users/macmacbook/Github/tgt/createGroup.php",
+		"/Users/macmacbook/Github/tgt/grouppage.php",
+		"/Users/macmacbook/Github/tgt/private.php",
+		"/Users/macmacbook/Github/tgt/register.php",
+		"/Users/macmacbook/Github/tgt/phpFunction/common.php",
+		"/Users/macmacbook/Github/tgt/login.php",
+		"/Users/macmacbook/Github/tgt/index.php",
+		"/Users/macmacbook/Github/tgt/index_old.php",
+		"/var/folders/xz/297wxynn0n99sms__c3p977c0000gn/T/sublime-sftp-browse-1377440396/FYP/www/tgt/index.php",
+		"/Users/macmacbook/Github/ptapp/index.php",
+		"/Users/macmacbook/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/macmacbook/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Applications/XAMPP/xamppfiles/etc/httpd.conf",
+		"/Users/macmacbook/Github/untitled",
+		"/var/folders/xz/297wxynn0n99sms__c3p977c0000gn/T/sublime-sftp-browse-1377312513/ust tools/www/cs/cs.html",
+		"/Users/macmacbook/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/var/folders/xz/297wxynn0n99sms__c3p977c0000gn/T/sublime-sftp-browse-1377313982/ust tools/www/cs/class.xml",
+		"/var/folders/xz/297wxynn0n99sms__c3p977c0000gn/T/sublime-sftp-browse-1377313601/FYP/www/tgt/assets/css/together.css",
+		"/var/folders/xz/297wxynn0n99sms__c3p977c0000gn/T/sublime-sftp-browse-1377313532/FYP/www/tgt/event.php",
+		"/Users/macmacbook/Library/Application Support/Sublime Text 2/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/Users/macmacbook/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/Default (OSX).sublime-keymap",
+		"/Users/macmacbook/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/FYP"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 25.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true
+}
